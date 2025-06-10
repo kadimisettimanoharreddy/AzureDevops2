@@ -1,0 +1,17 @@
+/home/sigmoid/Mobile_Store_App/src/main/java/com/mobile/app/MailSender.java
+/home/sigmoid/Mobile_Store_App/src/main/java/com/mobile/app/Jdbc.java
+/home/sigmoid/Mobile_Store_App/src/main/java/com/mobile/app/GooglepayServlet.java
+/home/sigmoid/Mobile_Store_App/src/main/java/com/mobile/app/LogoutServlet.java
+/home/sigmoid/Mobile_Store_App/src/main/java/com/mobile/app/Datafetcher.java
+/home/sigmoid/Mobile_Store_App/src/main/java/com/mobile/app/Resetpassword.java
+/home/sigmoid/Mobile_Store_App/src/main/java/com/mobile/app/PhoneServlet.java
+/home/sigmoid/Mobile_Store_App/src/main/java/com/mobile/app/PhonepayServlet.java
+/home/sigmoid/Mobile_Store_App/src/main/java/com/mobile/app/OrderdataFlush.java
+/home/sigmoid/Mobile_Store_App/src/main/java/com/mobile/app/LoginAuthentication.java
+/home/sigmoid/Mobile_Store_App/src/main/java/com/mobile/app/SessionChecker.java
+/home/sigmoid/Mobile_Store_App/src/main/java/com/mobile/app/OtpVerification.java
+/home/sigmoid/Mobile_Store_App/src/main/java/com/mobile/app/Authentication.java
+/home/sigmoid/Mobile_Store_App/src/main/java/com/mobile/app/Forgotpassword.java
+/home/sigmoid/Mobile_Store_App/src/main/java/com/mobile/app/Myorders.java
+/home/sigmoid/Mobile_Store_App/src/main/java/com/mobile/app/Main.java
+/home/sigmoid/Mobile_Store_App/src/main/java/com/mobile/app/Customersupport.java
